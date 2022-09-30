@@ -1,3 +1,7 @@
 # Job Board
-- GraphQL
-- ApolloServer
+
+- Node.js
+- Express
+- React
+- Apollo Server
+- Apollo Client
